@@ -1,0 +1,36 @@
+form{
+    width:auto;
+    margin-top: 3%;
+}
+label
+{
+    width:40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    float:left;
+
+}
+
+input
+{
+    width:50%;
+    margin-bottom: 2%;
+
+
+}
+
+input[type=submit]
+{
+    margin-left: 45%;
+    background-color: blue;
+    color:white;
+    width:30%;
+}
+
+.validation
+{
+    margin-left: 20%;
+    color:red;
+    width:70%;
+}
+
